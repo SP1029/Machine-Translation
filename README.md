@@ -12,7 +12,12 @@ For the first phase, I worked on developing my own model for the task of transla
 </p>
 
 ## Phase 2
-For the second phase, I experimented with more powerful neural models like GRUs, LSTMs and Tranformers. Utilisiation of effective post-processing methodologies including case restoration and numerical processing helped in boosting the performance of the models. As a part of this phase I ranked second.
+Unlike the first phase, for the second phase we were supposed to develop a single model for translation since the target language was the same for all. I experimented with more powerful neural models like GRUs, LSTMs and Tranformers. Utilisiation of effective post-processing methodologies including case restoration and numerical processing helped in boosting the performance of the models. The final submission was a Transformer along with post-processing techniques.
+
+<p align="center">
+  <img src="images/sample.png" width='500' text-align='center'><br>
+  Sample Prediction of Final Model.
+</p>
 
 ## Results
 
